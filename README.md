@@ -1,16 +1,9 @@
-# test_app_1
+# Flutter Laughing
 
-A new Flutter project.
+A new Flutter project. It is first time for me to make flutter using ML. 
 
-## Getting Started
+## demo 
+https://youtube.com/shorts/hgWCd4WUuvI?feature=share
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Refrences
+https://zenn.dev/dk96424/articles/a3300fd2f6f8e7
